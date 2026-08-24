@@ -30,7 +30,7 @@ export default function Hero() {
           <h1 className="font-display font-semibold text-4xl sm:text-5xl lg:text-[3.4rem] leading-[1.08] text-ink mt-4">
             {profile.name}
           </h1>
-          <p className="mt-3 font-mono text-signal-soft text-sm sm:text-base">
+          <p className="mt-3 font-mono text-signal-soft text-sm sm:text-base" style={{ color: "rgb(251 251 252)"}}>
             {profile.titlePrimary} <span className="text-ink-faint">|</span> {profile.titleSecondary}
           </p>
           <p className="mt-6 text-ink-muted text-base sm:text-lg leading-relaxed max-w-xl">
