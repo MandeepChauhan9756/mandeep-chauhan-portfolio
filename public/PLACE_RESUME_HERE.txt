@@ -1,0 +1,11 @@
+Add your real resume PDF in this folder, named exactly:
+
+    Mandeep_Chauhan_Resume.pdf
+
+So the final path is:
+
+    public/Mandeep_Chauhan_Resume.pdf
+
+The "Download Resume" button on the site links to /Mandeep_Chauhan_Resume.pdf.
+Once you add the file, delete this text file — it is not referenced anywhere
+and is just a reminder.
